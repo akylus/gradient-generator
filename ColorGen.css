@@ -1,0 +1,15 @@
+body {
+	font-family: 'Cormorant Unicase', serif;
+	color: rgba(0,0,0,0.6);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+    margin-top: 12em;
+    background: linear-gradient(to right, blue, red);
+}
+
+#code {
+	font-family: 'Noto Serif KR', sans-serif;
+	text-transform: lowercase;
+	letter-spacing: 0em;
+}
